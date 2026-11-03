@@ -1,0 +1,12 @@
+{
+  "ads": {
+    "rewardedDailyCap": 30,
+    "interstitial": {
+      "enabled": false,
+      "minLevel": 21,
+      "everyNWins": 3,
+      "minGapSec": 180,
+      "skipAfterRewardedSec": 180
+    }
+  }
+}
