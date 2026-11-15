@@ -4,9 +4,9 @@
     "interstitial": {
       "enabled": true,
       "minLevel": 10,
-      "everyNWins": 5,
-      "minGapSec": 180,
-      "skipAfterRewardedSec": 180
+      "everyNWins": 1,
+      "minGapSec": 60,
+      "skipAfterRewardedSec": 90
     }
   }
 }
