@@ -3,7 +3,7 @@
     "rewardedDailyCap": 30,
     "interstitial": {
       "enabled": true,
-      "minLevel": 10,
+      "minLevel": 5,
       "everyNWins": 1,
       "minGapSec": 60,
       "skipAfterRewardedSec": 90
